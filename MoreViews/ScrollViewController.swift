@@ -4,7 +4,8 @@
 //
 //  Created by Forrest Filler on 6/8/16.
 //  Copyright © 2016 ForrestFiller. All rights reserved.
-//
+// 
+// Made this in second class with Dan
 
 import UIKit
 
